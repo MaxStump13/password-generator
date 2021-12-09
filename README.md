@@ -18,19 +18,19 @@ N/A
 ## Usage
 Here is the deployed link to the password generator I created. [passwordGenerator](https://maxstump13.github.io/password-generator/)
 
-This is what the generator looks like. ![password-generator-home](./assets/images/home.png)
+This is what the generator looks like. ![password-generator-home](./assets/images/home.PNG)
 
-Once the generate password button is clicked, a series of confirm popups will appear to select the criteria as seen below. ![criteria-confirmation](./assets/images/confirms.png)
+Once the generate password button is clicked, a series of confirm popups will appear to select the criteria as seen below. ![criteria-confirmation](./assets/images/confirms.PNG)
 
-If no criteria is selected, the following alert will appear. Then the criteria selection will restart. ![no-critieria-alert](./assets/images/alert1.png)
+If no criteria is selected, the following alert will appear. Then the criteria selection will restart. ![no-critieria-alert](./assets/images/alert1.PNG)
 
-Once the criteria is selected, the following prompt will appear requesting a password length between 8 and 128. ![password-length](./assets/images/length.png)
+Once the criteria is selected, the following prompt will appear requesting a password length between 8 and 128. ![password-length](./assets/images/length.PNG)
 
-If an invalid number or cancel is clicked, an alert will appear and the prompt will reappear. ![invalid-password-length](./assets/images/alert2.png)
+If an invalid number or cancel is clicked, an alert will appear and the prompt will reappear. ![invalid-password-length](./assets/images/alert2.PNG)
 
-After the length is input, a confirmation window will appear for the user to verify. If the user wants to change the criteria, hit cancel and the generator will go back to the criteria selection portion. ![verification-popup](./assets/images/verification.png)
+After the length is input, a confirmation window will appear for the user to verify. If the user wants to change the criteria, hit cancel and the generator will go back to the criteria selection portion. ![verification-popup](./assets/images/verification.PNG)
 
-Finally once the criteria and length are confirmed, the generator creates a password based on the input and displays it in the box. ![new-password](./assets/images/generated.png)
+Finally once the criteria and length are confirmed, the generator creates a password based on the input and displays it in the box. ![new-password](./assets/images/generated.PNG)
 
 
 
