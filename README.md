@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this generator is to create a password based on user input criteria. The user chooses the length of the password and the types of characters to include in the password. Once confirmed, the generator uses the input to randomly select the specified number of letters/characters from each of the selected criteria. It then shuffles their order and displays the newly generated password on the screen. By using a 2D array, I was able to ensure that there would be at least one of each selected character type. The user is able to verifiy all criteria selected before the password is generated. If the user doesn't select any options or inputs a length out of range, they are notified and the generator restarts the relative section of the criteria selection. The generator can be ran multiple times in a row without fail. I learned how to effectively structure and call functions in a javascript file. I also learned how to break out of nested loops utilizing labels and breaks.
+The goal of this generator is to create a password based on user input criteria. The user chooses the length of the password and the types of characters to include in the password. Once confirmed, the generator uses the input to randomly select the specified number of letters/characters from each of the selected criteria. It then shuffles their order and displays the newly generated password on the screen. By using a 2D array, I was able to ensure that there would be at least one of each selected character type. The user is able to verifiy all criteria selected before the password is generated. If the user doesn't select any options or inputs a length out of range, they are notified and the generator restarts the relative section of the criteria selection. The generator can be ran multiple times in a row without fail. I learned how to effectively structure and call functions in a javascript file. I also learned how to break out of nested loops utilizing labels and breaks.testing
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,7 +12,7 @@ The goal of this generator is to create a password based on user input criteria.
 - [Features](#features)
 - [Footer](#badges)
 
-## Installation
+## Installation   
 N/A
 
 ## Usage
